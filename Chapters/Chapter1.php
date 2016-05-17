@@ -17,7 +17,7 @@ class Chapter1 extends Chapter
     public function declareAVariable()
     {
         // CODE HERE
-
+        $anyVariable = "jamie";
         // DO NOT EDIT BELOW
         return $anyVariable;
     }
