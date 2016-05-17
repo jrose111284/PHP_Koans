@@ -45,7 +45,7 @@ class Chapter1 extends Chapter
     public function declareAFloat()
     {
         // CODE HERE
-
+        $shouldBeAFloat = 2.2;
         // DO NOT EDIT BELOW
         return $shouldBeAFloat;
     }
