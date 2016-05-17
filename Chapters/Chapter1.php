@@ -31,7 +31,7 @@ class Chapter1 extends Chapter
     public function declareAnInt()
     {
         // CODE HERE
-
+        $shouldBeAnInt = 31;
         // DO NOT EDIT BELOW
         return $shouldBeAnInt;
     }
