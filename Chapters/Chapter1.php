@@ -59,7 +59,7 @@ class Chapter1 extends Chapter
     public function declareABoolean()
     {
         // CODE HERE
-
+        $shouldBeABoolean = true;
         // DO NOT EDIT BELOW
         return $shouldBeABoolean;
     }
