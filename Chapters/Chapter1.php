@@ -73,7 +73,7 @@ class Chapter1 extends Chapter
     public function setNull($shouldBeNull)
     {
         // CODE HERE
-
+        $shouldBeNull = null;
         // DO NOT EDIT BELOW
         return $shouldBeNull;
     }
