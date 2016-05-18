@@ -49,7 +49,7 @@ class Chapter2 extends Chapter
     public function multiplication($valueOne)
     {
         // CODE HERE
-
+        $fourTimes = $valueOne * 4;
         // DO NOT EDIT BELOW
         return $fourTimes;
     }
