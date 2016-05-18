@@ -78,7 +78,7 @@ class Chapter2 extends Chapter
     public function modulus($valueOne)
     {
         // CODE HERE
-
+        $remainder = $valueOne % 5;
         // DO NOT EDIT BELOW
         return $remainder;
     }
