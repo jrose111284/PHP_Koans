@@ -87,7 +87,7 @@ class Chapter1 extends Chapter
     public function variableCasting($becomesABoolean)
     {
         // CODE HERE
-
+        $becomesABoolean= true;
         // DO NOT EDIT BELOW
         return $becomesABoolean;
     }
@@ -101,7 +101,7 @@ class Chapter1 extends Chapter
     public function variableAssignment($alreadySet)
     {
         // CODE HERE
-
+      $copiedValue = $alreadySet;
         // DO NOT EDIT BELOW
         return $copiedValue;
     }
