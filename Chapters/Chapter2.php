@@ -34,7 +34,7 @@ class Chapter2 extends Chapter
     public function subtraction($valueOne, $valueTwo)
     {
         // CODE HERE
-
+        $difference = $valueOne - $valueTwo;
         // DO NOT EDIT BELOW
         return $difference;
     }
