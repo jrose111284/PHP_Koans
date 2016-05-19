@@ -93,7 +93,8 @@ class Chapter2 extends Chapter
     public function rounding($valueOne, $valueTwo)
     {
         // CODE HERE
-
+      $valueOne = round($valueOne);
+      $valueTwo = round($valueTwo, 2);
         // DO NOT EDIT BELOW
         return [$valueOne, $valueTwo];
     }
