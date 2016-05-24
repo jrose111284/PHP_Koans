@@ -79,7 +79,7 @@ class Chapter3 extends Chapter
     public function singleCharacters($valueOne)
     {
         // CODE HERE
-
+        $valueTwo = $valueOne{2};
         // DO NOT EDIT BELOW
         return $valueTwo;
     }
