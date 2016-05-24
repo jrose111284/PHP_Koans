@@ -33,7 +33,8 @@ class Chapter3 extends Chapter
     public function substitution($valueOne)
     {
         // CODE HERE
-
+        $name = 'Susan';
+        $valueTwo = sprintf($valueOne, $name);
         // DO NOT EDIT BELOW
         return $valueTwo;
     }
