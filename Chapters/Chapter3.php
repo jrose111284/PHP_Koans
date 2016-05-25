@@ -115,6 +115,9 @@ class Chapter3 extends Chapter
     public function changingCase($valueOne)
     {
         // CODE HERE
+        $allLower = strtolower($valueOne);
+        $allUpper = strtoupper($valueOne);
+        $firstUpper = ucfirst($valueOne);
 
         // DO NOT EDIT BELOW
         return [$allLower, $allUpper, $firstUpper];
