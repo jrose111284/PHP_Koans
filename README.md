@@ -1,3 +1,17 @@
+#Completed
+
+![Alt text](/Completed.png "completed")
+
+To Check i Have Completed the challenge
+
+```
+git clone https://github.com/jrose111284/PHP_Koans
+```
+then run
+```
+php koans.php
+```
+
 PHP-Koans
 
 
