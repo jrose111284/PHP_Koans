@@ -134,8 +134,9 @@ class Chapter3 extends Chapter
      */
     public function searching($valueOne)
     {
+      
         // CODE HERE
-
+        $foundLocation = strpos($valueOne, 'mountains?', 1);
         // DO NOT EDIT BELOW
         return $foundLocation;
     }
