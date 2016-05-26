@@ -1,6 +1,6 @@
 #Completed
 
-![Alt text](/Completed.png "completed")
+![Alt text](completed.png "completed")
 
 To Check i Have Completed the challenge
 
